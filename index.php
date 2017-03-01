@@ -363,7 +363,7 @@ if($use != '.' && $use != '..'){
 
 echo'
 <div id="footer">
-User Robot : <font color="red">'.count($user).'</font>
+User Robot :<font color="red">1'.count($user).'</font>
 </div>';
 }
 
